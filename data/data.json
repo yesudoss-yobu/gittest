@@ -1,0 +1,108 @@
+
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "arun",
+      "username": "arun arun"
+    },
+    {
+      "id": 2,
+      "name": "vijay",
+      "username": "vijay arun"
+    },
+    {
+      "id": 3,
+      "name": "selva",
+      "username": "selva arun"
+    },
+    {
+      "id": 4,
+      "name": "Vicki",
+      "username": "Vicki arun"
+    },
+    {
+      "id": 5,
+      "name": "pandian",
+      "username": "pandian arun"
+    },
+    {
+      "id": 6,
+      "name": "arul",
+      "username": "arul arun"
+    },
+    {
+      "id": 7,
+      "name": "anbu",
+      "username": "anbu arun"
+    },
+    {
+      "id": 8,
+      "name": "aravind",
+      "username": "aravind arun"
+    },
+    {
+      "id": 9,
+      "name": "arjun",
+      "username": "arjun arun"
+    },
+    {
+      "id": 10,
+      "name": "benny",
+      "username": "benny arun"
+    }
+  ],
+
+  "friends": [
+    {
+      "id": 1,
+      "name": "friend",
+      "username": "arun arun"
+    },
+    {
+      "id": 2,
+      "name": "vijay",
+      "username": "vijay arun"
+    },
+    {
+      "id": 3,
+      "name": "selva",
+      "username": "selva arun"
+    },
+    {
+      "id": 4,
+      "name": "Vicki",
+      "username": "Vicki arun"
+    },
+    {
+      "id": 5,
+      "name": "pandian",
+      "username": "pandian arun"
+    },
+    {
+      "id": 6,
+      "name": "arul",
+      "username": "arul arun"
+    },
+    {
+      "id": 7,
+      "name": "anbu",
+      "username": "anbu arun"
+    },
+    {
+      "id": 8,
+      "name": "aravind",
+      "username": "aravind arun"
+    },
+    {
+      "id": 9,
+      "name": "arjun",
+      "username": "arjun arun"
+    },
+    {
+      "id": 10,
+      "name": "benny",
+      "username": "benny arun"
+    }
+  ]
+}
